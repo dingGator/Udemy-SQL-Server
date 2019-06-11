@@ -1,0 +1,5 @@
+INSERT INTO tblSecond
+VALUES (245)
+INSERT INTO tblSecond VALUES(678)
+INSERT INTO[dbo].[tblSecond] VALUES (456), (123),
+(345)
