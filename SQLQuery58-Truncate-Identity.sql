@@ -12,6 +12,8 @@ insert into tblEmployee(EmployeeNumber,
 values (2004, 'FirstName', 'MiddleName', 'LastName',
 		'AB12345FM','2014-01-01','Accounts')
 
+drop table tblEmployee2
+
 delete from tblEmployee
  where EmployeeNumber =2004
  
